@@ -1,0 +1,12 @@
+package com.satiryz.helloworld;
+
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.fml.common.Mod;
+
+@Mod("helloworld")
+public class HelloWorld {
+
+		public HelloWorld(){
+			MinecraftForge.EVENT_BUS.register(this);
+		}
+}

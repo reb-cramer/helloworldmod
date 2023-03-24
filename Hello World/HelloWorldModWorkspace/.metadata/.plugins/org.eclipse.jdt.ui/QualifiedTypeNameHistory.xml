@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.api.distmarker.Dist"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.CreativeModeTab.Builder"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.DeferredRegister"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.ForgeRegistries"/>
+    <fullyQualifiedTypeName name="com.satiryz.helloworld.HelloWorld"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Item"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.RegistryObject"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Item.Properties"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Supplier"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Items"/>
+</qualifiedTypeNameHistroy>
