@@ -1,0 +1,5 @@
+{
+	"item.helloworldmod.hello_world_item": "Hello World Item",
+	"block.helloworldmod.hello_world_block": "Hello World Block",
+	"item_group.helloworldmod.items": "Hello World Items"
+}
